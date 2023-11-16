@@ -9,3 +9,5 @@ resources:
 images:
 - name: jcy0308/aegen-be
   newTag: a02152bb3f1a5d04049753e06f6e55838fd5ec58
+- name: jcy0308/aegen-fe
+  newTag: a4
