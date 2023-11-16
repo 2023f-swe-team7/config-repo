@@ -1,0 +1,11 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+namespace: aegen
+patchesStrategicMerge:
+- ingress.yaml
+resources:
+- ../../base
+- namespace.yaml
+images:
+- name: jcy0308/aegen-be
+  newTag: a02152bb3f1a5d04049753e06f6e55838fd5ec58

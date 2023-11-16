@@ -1,1 +1,3 @@
-# config-repo
+# AEGEN config-repo
+
+ArgoCD activated
