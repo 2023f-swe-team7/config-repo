@@ -9,6 +9,6 @@ resources:
 - namespace.yaml
 images:
 - name: jcy0308/aegen-be
-  newTag: 2cb708992585fa1d415533131f2eff6604419439
+  newTag: cd1b9afb1e782152701c7fd8a7943a9280d2c104
 - name: jcy0308/aegen-fe
   newTag: 31b533d0e636ba7c7598e9094069a7bcfb213842
